@@ -1,0 +1,17 @@
+
+# Maven build files
+target/
+
+# Eclipse temporary files
+.settings/
+.classpath
+.project
+
+# IntelliJ files
+.idea/
+
+# Logs
+*.log
+
+# Local database credentials
+src/main/resources/application.properties
